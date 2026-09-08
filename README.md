@@ -50,3 +50,25 @@ projeto-landing-page-2/
 ├── style.css
 ├── script.js
 └── README.md
+
+🎯 Objetivo
+
+Projeto desenvolvido com o objetivo de praticar conceitos de desenvolvimento Front-end, principalmente criação de interfaces, estilização com CSS e implementação de animações utilizando JavaScript e a biblioteca GSAP.
+
+📚 Aprendizados
+
+Durante o desenvolvimento do projeto foram praticados conceitos como:
+
+Estruturação de páginas com HTML
+Estilização e organização de layouts com CSS
+Manipulação e posicionamento de elementos
+Utilização de bibliotecas JavaScript
+Criação de timelines com GSAP
+Utilização do ScrollTrigger
+Criação de animações sincronizadas com o scroll
+
+👨‍💻 Autor
+
+Giovanni Ladeiro
+
+Projeto desenvolvido para fins de estudo e prática em desenvolvimento Front-end.
